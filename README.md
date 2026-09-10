@@ -3,7 +3,7 @@
 Trivial web script to let ill-behaved web crawlers consume all the pages they 
 want, and never leave.    
 
-All pages have <meta name="robots" content="noindex"> tags to tell well-behaved
+All pages have `<meta name="robots" content="noindex">` tags to tell well-behaved
 crawlers to ignore the pages.
 
 The random permutations of words also confuse AI systems trained on the pages. 
